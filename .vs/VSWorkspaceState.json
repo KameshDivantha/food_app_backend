@@ -6,12 +6,12 @@
     "\\app\\Http\\Controllers",
     "\\app\\Http\\Controllers\\Api",
     "\\app\\Http\\Controllers\\Api\\V1",
-    "\\app\\Http\\Controllers\\Api\\V1\\Auth",
     "\\app\\Models",
     "\\public",
     "\\public\\uploads",
     "\\public\\uploads\\images",
     "\\routes"
   ],
+  "SelectedNode": "\\app\\Http\\Controllers\\Api\\V1\\ConfigController.php",
   "PreviewInSolutionExplorer": false
 }
