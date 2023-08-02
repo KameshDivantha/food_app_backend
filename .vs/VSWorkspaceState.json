@@ -12,6 +12,5 @@
     "\\public\\uploads\\images",
     "\\routes"
   ],
-  "SelectedNode": "\\app\\Http\\Controllers\\Api\\V1\\ConfigController.php",
   "PreviewInSolutionExplorer": false
 }
